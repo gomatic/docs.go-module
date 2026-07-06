@@ -7,7 +7,7 @@ The **public documentation** site for [`gomatic/go-module`](https://github.com/g
 ## Layout
 
 | Path | Purpose |
-|------|---------|
+| --- | --- |
 | [`content/`](content/) | The documentation — Hugo site content. |
 | [`layouts/`](layouts/) | Hugo templates. |
 | [`hugo.json`](hugo.json) | Hugo configuration. |
